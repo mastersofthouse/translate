@@ -852,7 +852,7 @@
         "balance_date.required": "Necessário selecionar a data.",
         "balance_date.date_format": "Necessário selecionar a data.",
         "message.required": "Necessário digitar a mensagem.",
-        "genre.required": "Necessário entrar no gênero."
+        "genre.required": "Necessário digitar no gênero."
     },
     "uppy": {
         "addBulkFilesFailed": [
