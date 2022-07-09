@@ -855,14 +855,17 @@
             "message.required": "Need to enter the message.",
             "genre.required": "Need to enter the genre.",
             "newCategory.required": "Need to enter the category.",
+            "account.required": "Account must be selected.",
+            "form_payment.required": "You must select the payment format.",
             "format_installment.required": "It is necessary to select the installment format.",
             "number_installment.required": "You must enter the number of installments.",
             "number_installment.numeric": "You must enter the number of installments.",
             "due_date.required": "Need to enter the date.",
             "due_date.date_format": "Need to enter the date.",
-            "favored.required":"It is necessary to select the beneficiary.",
+            "favored.required": "It is necessary to select the beneficiary.",
             "value.required": "You must enter the valid value.",
-            "value.isValuePositivo": "You must enter the valid value."
+            "value.isValuePositivo": "You must enter the valid value.",
+            "value.notZero": "You must enter the valid value."
         },
         "uppy": {
             "addBulkFilesFailed": [
@@ -1858,7 +1861,14 @@
         "Pay": "Pay",
         "Value": "Value",
         "Billet": "Billet",
-        "Divide the account value by the installments?": "Divide the account value by the installments?"
+        "Divide the account value by the installments?": "Divide the account value by the installments?",
+        "I do not pay": "I do not pay",
+        "Not Pay": "Not Pay",
+        "Virtual wallet created.": "Virtual wallet created.",
+        "Error creating virtual wallet.": "Error creating virtual wallet.",
+        "BANK AS SERVICE": "BANK AS SERVICE",
+        "Registered financial categories.": "Registered financial categories.",
+        "Error when registering registered categories.": "Error when registering registered categories."
     },
     "description": {
         "Adding default image 'login-dashboard' in tenant.": "Adding default image 'login-dashboard' in tenant.",
@@ -3663,7 +3673,14 @@
         "Pay": "Pay",
         "Value": "Value",
         "Billet": "Billet",
-        "Divide the account value by the installments?": "Divide the account value by the installments?"
+        "Divide the account value by the installments?": "Divide the account value by the installments?",
+        "I do not pay": "I do not pay",
+        "Not Pay": "Not Pay",
+        "Virtual wallet created.": "Virtual wallet created.",
+        "Error creating virtual wallet.": "Error creating virtual wallet.",
+        "BANK AS SERVICE": "BANK AS SERVICE",
+        "Registered financial categories.": "Registered financial categories.",
+        "Error when registering registered categories.": "Error when registering registered categories."
     },
     "languages": {
         "af": "Afrikaans",
