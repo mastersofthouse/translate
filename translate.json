@@ -854,7 +854,15 @@
             "balance_date.date_format": "Need to enter the date.",
             "message.required": "Need to enter the message.",
             "genre.required": "Need to enter the genre.",
-            "newCategory.required": "Need to enter the category."
+            "newCategory.required": "Need to enter the category.",
+            "format_installment.required": "It is necessary to select the installment format.",
+            "number_installment.required": "You must enter the number of installments.",
+            "number_installment.numeric": "You must enter the number of installments.",
+            "due_date.required": "Need to enter the date.",
+            "due_date.date_format": "Need to enter the date.",
+            "favored.required":"It is necessary to select the beneficiary.",
+            "value.required": "You must enter the valid value.",
+            "value.isValuePositivo": "You must enter the valid value."
         },
         "uppy": {
             "addBulkFilesFailed": [
@@ -1834,7 +1842,23 @@
         "SALES RETURNS FOR SERVICES RENDERED": "SALES RETURNS FOR SERVICES RENDERED",
         "clients": "clients",
         "suppliers": "suppliers",
-        "Enter new category.": "Enter new category."
+        "Enter new category.": "Enter new category.",
+        "WEEKLY": "WEEKLY",
+        "FORTNIGHTLY": "FORTNIGHTLY",
+        "MONTHLY": "MONTHLY",
+        "BIMONTHLY": "BIMONTHLY",
+        "QUARTERLY": "QUARTERLY",
+        "SEMI-ANNUAL": "SEMI-ANNUAL",
+        "YEARLY": "YEARLY",
+        "value": "value",
+        "pay": "pay",
+        "Paid out": "Paid out",
+        "Opened": "Opened",
+        "Multiply value by installments?": "Multiply value by installments?",
+        "Pay": "Pay",
+        "Value": "Value",
+        "Billet": "Billet",
+        "Divide the account value by the installments?": "Divide the account value by the installments?"
     },
     "description": {
         "Adding default image 'login-dashboard' in tenant.": "Adding default image 'login-dashboard' in tenant.",
@@ -3623,7 +3647,23 @@
         "SALES RETURNS FOR SERVICES RENDERED": "SALES RETURNS FOR SERVICES RENDERED",
         "clients": "clients",
         "suppliers": "suppliers",
-        "Enter new category.": "Enter new category."
+        "Enter new category.": "Enter new category.",
+        "WEEKLY": "WEEKLY",
+        "FORTNIGHTLY": "FORTNIGHTLY",
+        "MONTHLY": "MONTHLY",
+        "BIMONTHLY": "BIMONTHLY",
+        "QUARTERLY": "QUARTERLY",
+        "SEMI-ANNUAL": "SEMI-ANNUAL",
+        "YEARLY": "YEARLY",
+        "value": "value",
+        "pay": "pay",
+        "Paid out": "Paid out",
+        "Opened": "Opened",
+        "Multiply value by installments?": "Multiply value by installments?",
+        "Pay": "Pay",
+        "Value": "Value",
+        "Billet": "Billet",
+        "Divide the account value by the installments?": "Divide the account value by the installments?"
     },
     "languages": {
         "af": "Afrikaans",
